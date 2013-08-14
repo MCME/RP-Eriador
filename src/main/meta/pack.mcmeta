@@ -2,5 +2,12 @@
   "pack": {
     "pack_format": 1,
     "description": "Minecraft Middle Earth"
+  },
+  "language": {
+    "er_ME": {
+      "name": "MCME Language Pack",
+      "region": "Eriador",
+      "bidirectional": false
+    }
   }
 }
