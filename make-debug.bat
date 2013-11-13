@@ -7,4 +7,5 @@ del %newdir%\Eriador-DEBUG\*.* /s /q
 xcopy /y/s %oldDir%\src\main\meta\* %newDir%\Eriador-DEBUG
 xcopy /y/s %oldDir%\src\main\pack\* %newDir%\Eriador-DEBUG\assets\minecraft
 xcopy /y/s %oldDir%\MCME-UI\src\main\pack\*.* %newDir%\Eriador-DEBUG\assets\minecraft
+xcopy /y/s %oldDir%\MCME-Aural-Experience\src\main\pack\*.* %newDir%\Eriador-DEBUG\assets\minecraft
 pause
