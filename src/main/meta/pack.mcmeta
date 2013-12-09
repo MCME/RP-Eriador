@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "Minecraft Middle Earth"
+    "description": "MCME Eriador ${project.version}"
   },
   "language": {
     "er_ME": {
