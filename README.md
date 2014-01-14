@@ -22,7 +22,7 @@ The goal for the MCME Resourcepacks is to provide our builders with high-quality
 - Only submit relevant textures in a single Pull-Request. Create separate PRs for unrelated blocks/items. If unsure of what is considered relevant, create an '<a href='https://github.com/MCME/MCME-Eriador-Pack/issues'>Issue Tracker</a>' entry asking for advice.
 
 #####Texture Guidelines:
-- Decorative block (<b>not</b> including glass!), and item textures can be submitted feely.
+- Decorative block (<b>not</b> including glass!) and item textures can be submitted freely.
 - New building blocks must have been approved by an appropriate member of Staff. Proof of approval should be provided in the PR's notes (links, screenshots etc).
 - To gain approval for block-textures it would be a good idea to start a <a href='http://mcmiddleearth.com/forum/resource-packs.28/'>discussion thread</a> specifically for the block you have in mind. Include the texture, any relevant screenshots, and as much information as to why it should/could be included. Keep in mind our 'ethos' for working on new textures.
 
