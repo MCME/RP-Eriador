@@ -29,6 +29,8 @@ The goal for the MCME Resourcepacks is to provide our builders with high-quality
 
 #####Project Guidelines:
 - Leave any versioning changes out of your pull request.
+
+
 _If uncertain on how your proposed change should be classified or submitted, start a new [Issue Tracker](https://github.com/MCME/MCME-Eriador-Pack/issues) entry asking for assitance/advice._
 
 ---
