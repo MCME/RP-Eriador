@@ -14,7 +14,7 @@ There are three main areas of work to be carried out on the MCME Resourcepacks:
 - **Replacements** - the original MCME Resourcepacks were based on various works from outside of the MCME network. As such, any textures that are not currently considered MCME 'originals' have a high priority for replacement.
 - **New Textures** - The ethos for new block-textures is as follows; _we do not add textures for the sake of replacing Vanilla blocks. We keep blocks 'free' until there is a 'need' to texture them_.
 
-**Goal**
+#####Goal
 
 The goal for the MCME Resourcepacks is to provide our builders with high-quality, original textures, allowing them to build awesome stuff! In order to meet this goal, contributions to the pack must be submitted and reviewed accorinding to the following guidelines.
 
