@@ -1,0 +1,6 @@
+{
+    "parent": "block/shutter_closed",
+    "textures": {
+        "texture": "blocks/shutter"
+    }
+}
