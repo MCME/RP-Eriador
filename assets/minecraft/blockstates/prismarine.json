@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": 
+	    [
+	    { "model": "prismarine_rough_base", "weight":4 },
+	    { "model": "prismarine_rough_base_1", "weight":4 },
+	    { "model": "prismarine_rough_base_2", "weight":4 },
+	    { "model": "prismarine_rough" },
+	    { "model": "prismarine_rough_1" },
+	    { "model": "prismarine_rough_2" },
+	    { "model": "prismarine_rough_3" },
+	    { "model": "prismarine_rough_4" }
+	    ]
+    }
+}

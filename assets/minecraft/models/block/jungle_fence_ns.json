@@ -1,0 +1,6 @@
+{
+    "parent": "block/megafence_ns",
+    "textures": {
+        "texture": "blocks/planks_fence_jungle"
+    }
+}

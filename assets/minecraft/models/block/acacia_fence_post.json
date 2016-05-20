@@ -1,0 +1,6 @@
+{
+    "parent": "block/superfence_post",
+    "textures": {
+        "texture": "blocks/planks_oak"
+    }
+}

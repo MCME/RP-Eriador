@@ -1,0 +1,6 @@
+{
+    "parent": "block/megafence_gate_closed",
+    "textures": {
+        "texture": "blocks/planks_fence_big_oak"
+    }
+}

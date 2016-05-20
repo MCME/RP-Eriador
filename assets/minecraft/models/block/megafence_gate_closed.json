@@ -1,0 +1,55 @@
+{
+    "textures": {
+        "particle" : "#texture"
+    },
+    "elements": [
+        {   "__comment": "Left-hand post",
+            "from": [ 0, 0, 7 ],
+            "to": [ 2, 16, 9 ],
+            "faces": {
+                "down":  { "uv": [ 0, 7, 4,  11 ], "texture": "#texture" },
+                "up":    { "uv": [ 0, 7, 4,  11 ], "texture": "#texture" },
+                "north": { "uv": [ 0, 0, 4, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 0, 0, 4, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 0, 0, 4, 16 ], "texture": "#texture", "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 4, 16 ], "texture": "#texture" }
+            }
+        },
+        {   "__comment": "Right-hand post",
+            "from": [ 14, 0, 7 ],
+            "to": [ 16, 16, 9 ],
+            "faces": {
+                "down":  { "uv": [ 12, 7, 16,  11 ], "texture": "#texture" },
+                "up":    { "uv": [ 12, 7, 16,  11 ], "texture": "#texture" },
+                "north": { "uv": [ 12, 0, 16, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 12, 0, 16, 16 ], "texture": "#texture" },
+                "west":  { "uv": [  12, 0,  16, 16 ], "texture": "#texture" },
+                "east":  { "uv": [  12, 0,  16, 16 ], "texture": "#texture", "cullface": "east" }
+            }
+        },
+        {   "__comment": "Inner vertical post of left-hand gate door",
+            "from": [ 2, 2, 7.75 ],
+            "to": [ 7.25, 14, 8.25 ],
+            "faces": {
+                "down":  { "uv": [ 6, 7, 8,  9 ], "texture": "#texture" },
+                "up":    { "uv": [ 6, 7, 8,  9 ], "texture": "#texture" },
+                "north": { "uv": [ 4, 1, 10, 14 ], "texture": "#texture" },
+                "south": { "uv": [ 4, 1, 10, 14 ], "texture": "#texture" },
+                "west":  { "uv": [ 7, 1, 9, 14 ], "texture": "#texture" },
+                "east":  { "uv": [ 7, 1, 9, 14 ], "texture": "#texture" }
+            }
+        },
+        {   "__comment": "Inner vertical post of right-hand gate door",
+            "from": [ 8.75, 2, 7.75 ],
+            "to": [ 14, 14, 8.25 ],
+            "faces": {
+                "down":  { "uv": [ 8, 7, 10,  9 ], "texture": "#texture" },
+                "up":    { "uv": [ 8, 7, 10,  9 ], "texture": "#texture" },
+                "north": { "uv": [ 4, 1, 10, 14 ], "texture": "#texture" },
+                "south": { "uv": [ 4, 1, 10, 14 ], "texture": "#texture" },
+                "west":  { "uv": [ 7, 1,  9, 14 ], "texture": "#texture" },
+                "east":  { "uv": [ 7, 1,  9, 14 ], "texture": "#texture" }
+            }
+        }
+    ]
+}
