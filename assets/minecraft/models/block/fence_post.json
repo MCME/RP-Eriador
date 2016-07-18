@@ -14,17 +14,6 @@
                 "east":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" }
             },
             "__comment": "Center post"
-        },
-        {   "from": [ 7.75, 0, 0 ],
-            "to": [ 8.25, 15, 9 ],
-            "faces": {
-                "down":  { "uv": [ 7, 0, 9, 9 ], "texture": "#texture", "cullface": "down" },
-                "up":    { "uv": [ 7, 0, 9, 9 ], "texture": "#texture" },
-                "north": { "uv": [ 7, 0, 9, 16 ], "texture": "#texture", "cullface": "north" },
-                "south": { "uv": [ 7, 0, 9, 16 ], "texture": "#texture", "cullface": "south" },
-                "west":  { "uv": [ 0, 0, 9, 16 ], "texture": "#texture" },
-                "east":  { "uv": [ 0, 0, 9, 16 ], "texture": "#texture" }
-            }
         }
-        ]
+    ]
 }
