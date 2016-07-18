@@ -4,8 +4,8 @@
     },
     "elements": [
         {   "__comment": "Left-hand post",
-            "from": [ 0, 0, 7 ],
-            "to": [ 2, 16, 9 ],
+            "from": [ 0, 0, 6 ],
+            "to": [ 4, 16, 10 ],
             "faces": {
                 "down":  { "uv": [ 0, 7, 4,  11 ], "texture": "#texture" },
                 "up":    { "uv": [ 0, 7, 4,  11 ], "texture": "#texture" },
@@ -16,8 +16,8 @@
             }
         },
         {   "__comment": "Right-hand post",
-            "from": [ 14, 0, 7 ],
-            "to": [ 16, 16, 9 ],
+            "from": [ 12, 0, 6 ],
+            "to": [ 16, 16, 10],
             "faces": {
                 "down":  { "uv": [ 12, 7, 16,  11 ], "texture": "#texture" },
                 "up":    { "uv": [ 12, 7, 16,  11 ], "texture": "#texture" },
@@ -29,7 +29,7 @@
         },
         {   "__comment": "Inner vertical post of left-hand gate door",
             "from": [ 0.75, 2, 9 ],
-            "to": [ 1.25, 14, 14.25 ],
+            "to": [ 1.25, 14, 16 ],
             "faces": {
                 "down":  { "uv": [  0, 13,  2, 15 ], "texture": "#texture" },
                 "up":    { "uv": [  0, 13,  2, 15 ], "texture": "#texture" },
@@ -41,7 +41,7 @@
         },
         {   "__comment": "Inner vertical post of right-hand gate door",
             "from": [ 14.75, 2, 9 ],
-            "to": [ 15.25, 14, 14.5 ],
+            "to": [ 15.25, 14, 16 ],
             "faces": {
                 "down":  { "uv": [ 14, 13, 16, 15 ], "texture": "#texture" },
                 "up":    { "uv": [ 14, 13, 16, 15 ], "texture": "#texture" },
