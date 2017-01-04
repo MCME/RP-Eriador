@@ -1,0 +1,52 @@
+{
+    "multipart": [
+        {   "when": { "age": "0" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "1" },
+            "apply": { "model": "hobbit_door_green_open"}
+        },
+        {   "when": { "age": "2" },
+            "apply": { "model": "hobbit_door_green_open", "y": 90}
+        },
+        {   "when": { "age": "3" },
+            "apply": { "model": "hobbit_door_green_open", "y": 180}
+        },
+        {   "when": { "age": "4" },
+            "apply": { "model": "hobbit_door_green_open", "y": 270}
+        },
+        {   "when": { "age": "5" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "6" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "7" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "8" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "9" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "10" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "11" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "12" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "13" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "14" },
+            "apply": { "model": "reeds", "uvlock": true }
+        },
+        {   "when": { "age": "15" },
+            "apply": { "model": "reeds", "uvlock": true }
+        }
+    ]
+}
