@@ -1,0 +1,6 @@
+{
+    "parent": "block/hobbit_door_top",
+    "textures": {
+        "door": "blocks/door_hobbit_green"
+    }
+}
