@@ -1,6 +1,6 @@
 {
-    "parent": "block/superfence_post",
-    "textures": {
-        "texture": "blocks/planks_oak"
-    }
+  "parent": "block/superfence_post",
+  "textures": {
+    "texture": "block/oak_planks"
+  }
 }

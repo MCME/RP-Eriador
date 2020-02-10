@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/prismarine_rough_base"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/prismarine_rough_base"
+  }
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "block/deco_wire",
-    "textures": {
-        "particle": "blocks/a2",
-        "pane": "blocks/a2"
-    }
+  "parent": "block/deco_wire",
+  "textures": {
+    "particle": "block/a2",
+    "pane": "block/a2"
+  }
 }

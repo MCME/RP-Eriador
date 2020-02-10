@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 3,
-    "description": "MCME Eriador July 7th, 2017"
+    "pack_format": 4,
+    "description": "MCME Eriador 1.1 snapshot 03"
+  },
+  "meta": {
+    "game_version": "1.14"
   }
 }

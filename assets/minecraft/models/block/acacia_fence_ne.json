@@ -1,7 +1,7 @@
 {
-    "parent": "block/superfence_ne",
-    "textures": {
-        "texture": "blocks/planks_oak",
-	"texture2": "blocks/wool_colored_white"
-    }
+  "parent": "block/superfence_ne",
+  "textures": {
+    "texture": "block/oak_planks",
+    "texture2": "block/white_wool"
+  }
 }
