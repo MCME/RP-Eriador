@@ -1,8 +1,8 @@
 {
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "blocks/red_sandstone_bottom_2",
-        "top": "blocks/red_sandstone_top_2",
-        "side": "blocks/red_sandstone_normal_2"
-    }
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "block/red_sandstone_bottom_2",
+    "top": "block/red_sandstone_top_2",
+    "side": "block/red_sandstone_normal_2"
+  }
 }
