@@ -1,7 +1,7 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "blocks/a3",
-	"particle": "blocks/a3"
-    }
+  "parent": "block/cross",
+  "textures": {
+    "cross": "block/a3",
+    "particle": "block/a3"
+  }
 }

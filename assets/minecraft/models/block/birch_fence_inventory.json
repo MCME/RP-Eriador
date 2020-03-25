@@ -1,6 +1,6 @@
 {
-    "parent": "block/megafence_inventory",
-    "textures": {
-        "texture": "blocks/planks_birch"
-    }
+  "parent": "block/megafence_inventory",
+  "textures": {
+    "texture": "block/birch_planks"
+  }
 }

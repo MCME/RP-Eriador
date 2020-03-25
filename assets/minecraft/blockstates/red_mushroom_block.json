@@ -1,0 +1,8 @@
+{
+  "multipart": [
+    { "when": {"north": false, "west": false, "south": false, "east": false, "up": false, "down": false },
+      "apply": {
+      "model": "block/nether_bricks"
+    }}
+  ]
+}
