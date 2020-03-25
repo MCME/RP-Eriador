@@ -1,6 +1,6 @@
 {
-    "parent": "block/megafence_gate_closed",
-    "textures": {
-        "texture": "blocks/planks_fence_jungle"
-    }
+  "parent": "block/megafence_gate_closed",
+  "textures": {
+    "texture": "block/planks_fence_jungle"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/megafence_nse",
-    "textures": {
-        "texture": "blocks/planks_fence_big_oak"
-    }
+  "parent": "block/megafence_nse",
+  "textures": {
+    "texture": "block/planks_fence_big_oak"
+  }
 }

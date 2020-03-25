@@ -1,6 +1,6 @@
 {
-    "parent": "block/shutter_closed",
-    "textures": {
-        "texture": "blocks/shutter"
-    }
+  "parent": "block/shutter_closed",
+  "textures": {
+    "texture": "block/shutter"
+  }
 }
