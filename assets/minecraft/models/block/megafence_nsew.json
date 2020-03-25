@@ -22,8 +22,7 @@
             10,
             10
           ],
-          "texture": "#texture",
-          "cullface": "down"
+          "texture": "#texture"
         },
         "up": {
           "uv": [
