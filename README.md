@@ -1,4 +1,4 @@
-# RP-Gondor
+# RP-Eriador
 The official repository for MCME's Eriador pack.
 Created by members of the Minecraft Middle-Earth community.
 
