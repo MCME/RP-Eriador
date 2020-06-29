@@ -1,0 +1,6 @@
+{
+  "parent": "block/barrel_full",
+  "textures": {
+    "content": "block/barrel_fish"
+  }
+}

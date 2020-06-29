@@ -1,0 +1,6 @@
+{
+  "parent": "block/barrel_half",
+  "textures": {
+    "content": "block/barrel_apples"
+  }
+}

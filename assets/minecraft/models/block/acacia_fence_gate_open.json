@@ -1,7 +1,6 @@
 {
-  "parent": "block/superfence_gate_open",
+  "parent": "block/megafence_gate_open",
   "textures": {
-    "texture": "block/oak_planks",
-    "texture2": "block/white_wool"
+    "texture": "block/planks_fence_big_oak"
   }
 }

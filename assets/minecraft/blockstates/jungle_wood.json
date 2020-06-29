@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "axis=x": { "model": "block/jungle_wood_x" }
+    }
+}

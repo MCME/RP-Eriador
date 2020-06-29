@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "pickles=4": {
+            "model": "block/sea_pickle_4"
+	}
+  }
+}

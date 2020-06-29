@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing\u003dnorth": [
+      {
+        "model": "block/green_glazed_terracotta",
+        "y": 180
+      }
+    ],
+    "facing\u003deast": [
+      {
+        "model": "block/green_glazed_terracotta",
+        "y": 270
+      }
+    ],
+    "facing\u003dsouth": [
+      {
+        "model": "block/green_glazed_terracotta"
+      }
+    ],
+    "facing\u003dwest": [
+      {
+        "model": "block/green_glazed_terracotta",
+        "y": 90
+      }
+    ]
+  }
+}

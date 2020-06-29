@@ -1,63 +1,49 @@
 {
-  "variants": {
-    "east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dfalse": {
-      "model": "block/a3"
+  "multipart": [
+    {
+      "when": {
+        "north": true
+      },
+      "apply": {
+        "model": "block/glass_pane_half_right_magenta"
+      }
     },
-    "east\u003dfalse,north\u003dtrue,south\u003dfalse,west\u003dfalse": {
-      "model": "block/a1"
+    {
+      "when": {
+        "east": true
+      },
+      "apply": {
+        "model": "block/glass_pane_half_right_magenta",
+        "y": 90
+      }
     },
-    "east\u003dtrue,north\u003dfalse,south\u003dfalse,west\u003dfalse": {
-      "model": "block/a1",
-      "y": 90
+    {
+      "when": {
+        "south": true
+      },
+      "apply": {
+        "model": "block/glass_pane_half_left_magenta"
+      }
     },
-    "east\u003dfalse,north\u003dfalse,south\u003dtrue,west\u003dfalse": {
-      "model": "block/a1",
-      "y": 180
+    {
+      "when": {
+        "west": true
+      },
+      "apply": {
+        "model": "block/glass_pane_half_left_magenta",
+        "y": 90
+      }
     },
-    "east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dtrue": {
-      "model": "block/a1",
-      "y": 270
-    },
-    "east\u003dtrue,north\u003dtrue,south\u003dfalse,west\u003dfalse": {
-      "model": "block/a1",
-      "y": 90
-    },
-    "east\u003dtrue,north\u003dfalse,south\u003dtrue,west\u003dfalse": {
-      "model": "block/a1",
-      "y": 180
-    },
-    "east\u003dfalse,north\u003dfalse,south\u003dtrue,west\u003dtrue": {
-      "model": "block/a1",
-      "y": 270
-    },
-    "east\u003dfalse,north\u003dtrue,south\u003dfalse,west\u003dtrue": {
-      "model": "block/a1"
-    },
-    "east\u003dfalse,north\u003dtrue,south\u003dtrue,west\u003dfalse": {
-      "model": "block/a2"
-    },
-    "east\u003dtrue,north\u003dfalse,south\u003dfalse,west\u003dtrue": {
-      "model": "block/a2",
-      "y": 90
-    },
-    "east\u003dtrue,north\u003dtrue,south\u003dtrue,west\u003dfalse": {
-      "model": "block/a1",
-      "y": 90
-    },
-    "east\u003dtrue,north\u003dfalse,south\u003dtrue,west\u003dtrue": {
-      "model": "block/a1",
-      "y": 180
-    },
-    "east\u003dfalse,north\u003dtrue,south\u003dtrue,west\u003dtrue": {
-      "model": "block/a1",
-      "y": 270
-    },
-    "east\u003dtrue,north\u003dtrue,south\u003dfalse,west\u003dtrue": {
-      "model": "block/a1",
-      "y": 0
-    },
-    "east\u003dtrue,north\u003dtrue,south\u003dtrue,west\u003dtrue": {
-      "model": "block/a3"
+    {
+      "when": {
+        "north": false,
+        "east": false,
+        "south": false,
+        "west": false
+      },
+      "apply": {
+        "model": "block/unused_cross_0"
+      }
     }
-  }
+  ]
 }

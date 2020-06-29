@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_mirrored",
+    "textures": {
+        "particle": "block/polished_granite",
+        "down": "block/polished_granite",
+        "up": "block/polished_granite",
+        "north": "block/polished_granite",
+        "east": "block/glazed_terracotta_cyan_side_2",
+        "south": "block/red_sandstone",
+        "west": "block/glazed_terracotta_cyan_side_1"
+    }
+}
