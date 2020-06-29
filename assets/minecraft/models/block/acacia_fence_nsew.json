@@ -1,7 +1,0 @@
-{
-  "parent": "block/superfence_nsew",
-  "textures": {
-    "texture": "block/oak_planks",
-    "texture2": "block/white_wool"
-  }
-}

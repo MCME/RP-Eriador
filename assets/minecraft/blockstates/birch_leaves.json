@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "distance=2,persistent=false": { "model": "block/barrel_onions_full" },
+		"distance=3,persistent=false": { "model": "block/barrel_onions_half" },
+		"distance=4,persistent=false": { "model": "block/barrel_potatoes_full" },
+		"distance=5,persistent=false": { "model": "block/barrel_potatoes_half" },
+		"distance=6,persistent=false": { "model": "block/barrel_tomatoes_full" },
+		"distance=7,persistent=true": { "model": "block/barrel_tomatoes_half" },
+		"distance=2,persistent=true": { "model": "block/barrel_water_full" },
+		"distance=3,persistent=true": { "model": "block/barrel_water_half" },
+		"distance=4,persistent=true": { "model": "block/barrel_wheat_full" },
+		"distance=5,persistent=true": { "model": "block/barrel_wheat_half" }
+    }
+}
