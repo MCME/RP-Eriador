@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "type=double": [
+            { "model": "block/double_slab_red_nether_bricks" },
+            { "model": "block/double_slab_red_nether_bricks_1" },
+            { "model": "block/double_slab_red_nether_bricks_2" },
+            { "model": "block/double_slab_red_nether_bricks_3" },
+            { "model": "block/double_slab_red_nether_bricks_4" },
+            { "model": "block/double_slab_red_nether_bricks_5" }
+        ]
+    }
+}

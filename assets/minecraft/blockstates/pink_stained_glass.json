@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "block/pink_stained_glass",
+      "y": 90
+    }
+  }
+}

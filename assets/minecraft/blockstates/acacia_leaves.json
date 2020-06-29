@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "distance=2,persistent=false": { "model": "block/barrel_empty", "x":90, "y":90 },
+		"distance=3,persistent=false": { "model": "block/barrel_empty", "x":90 },
+		"distance=4,persistent=false": { "model": "block/barrel_empty" },
+		"distance=5,persistent=false": { "model": "block/barrel_apples_full" },
+		"distance=6,persistent=false": { "model": "block/barrel_apples_half" },
+		"distance=7,persistent=false": { "model": "block/barrel_coal_full" },
+		"distance=1,persistent=false": { "model": "block/barrel_coal_half" },
+		"distance=2,persistent=true": { "model": "block/barrel_fish_full" },
+		"distance=3,persistent=true": { "model": "block/barrel_fish_half" },
+		"distance=4,persistent=true": { "model": "block/barrel_grapes_full" },
+		"distance=5,persistent=true": { "model": "block/barrel_grapes_half" },
+		"distance=6,persistent=true": { "model": "block/barrel_meat_full" },
+		"distance=7,persistent=true": { "model": "block/barrel_meat_half" }
+    }
+}

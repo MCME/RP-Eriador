@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "axis=x": { "model": "block/spruce_wood_x" }
+    }
+}

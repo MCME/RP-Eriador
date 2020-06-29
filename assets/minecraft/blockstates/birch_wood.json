@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "axis=x": { "model": "block/birch_wood_x" }
+    }
+}

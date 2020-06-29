@@ -1,6 +1,8 @@
 {
-  "parent": "block/megafence_gate_open",
+  "parent": "block/vertical_slab",
   "textures": {
-    "texture": "block/planks_fence_jungle"
+    "bottom": "block/purpur_block",
+    "top": "block/purpur_block",
+    "side": "block/purpur_block"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/double_slab_polished_diorite",
+    "down": "block/double_slab_polished_diorite",
+    "up": "block/double_slab_polished_diorite",
+    "north": "block/glazed_terracotta_brown_nw_r",
+    "east": "block/glazed_terracotta_brown_es",
+    "south": "block/glazed_terracotta_brown_es",
+    "west": "block/glazed_terracotta_brown_nw_l"
+  }
+}
