@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 5,
-    "description": "MCME Eriador 2.0"
+    "pack_format": 6,
+    "description": "MCME Eriador 2.1"
   },
   "meta": {
-    "game_version": "1.15"
+    "game_version": "1.16.2"
   }
 }
